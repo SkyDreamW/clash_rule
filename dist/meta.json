@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 02:02:21 UTC",
+  "generated_at": "2026-11-06 02:02:40 UTC",
   "source": "https://github.com/GMOogway/shadowrocket-rules",
   "files": {
     "sr_direct": {
@@ -10,7 +10,7 @@
       "source": "sr_direct_list.module"
     },
     "sr_proxy": {
-      "rules": 27418,
+      "rules": 27423,
       "dropped": {
         "URL-REGEX": 151,
         "USER-AGENT": 1
@@ -18,7 +18,7 @@
       "source": "sr_proxy_list.module"
     },
     "sr_reject": {
-      "rules": 197255,
+      "rules": 197501,
       "dropped": {},
       "source": "sr_reject_list.module"
     }
